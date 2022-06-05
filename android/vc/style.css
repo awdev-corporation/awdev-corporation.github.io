@@ -28,7 +28,14 @@ body
  
  
  }
+
+ h3 {
+ text-align: center;
+ color: #fff;
+ border: 3px;
  
+ 
+ }
  textarea {
  width: 30%;
  min-height: 250px;
@@ -46,9 +53,5 @@ body
  font-size: 30px;
  }
  
- github{
- position:absolute;
- top:37;
- left:1110;
  
- }
+

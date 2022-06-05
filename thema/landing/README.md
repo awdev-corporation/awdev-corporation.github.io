@@ -1,12 +1,13 @@
 # [Tailwind Toolbox](https://www.tailwindtoolbox.com/) - [Landing Page Template](https://www.tailwindtoolbox.com/templates/landing-page)
 
-[Landing Page](https://www.tailwindtoolbox.com/templates/landing-page) is an open source, generic landing page template for [Tailwind CSS](https://tailwindcss.com/) created by [Tailwind Toolbox](https://www.tailwindtoolbox.com/).
+[Landing Page](https://www.awdev.my.id/thema/landing/index.html) is an open source, generic landing page template for [Tailwind CSS](https://tailwindcss.com/) created by [Tailwind Toolbox](https://www.tailwindtoolbox.com/).
 
 ![Landing Page](https://www.tailwindtoolbox.com/templates/landing-page.png)
 
 
 ## Getting Started
 
+➡️ [Preview](https://www.awdev.my.id/thema/landing/index.html)
 Choose one of the following options to get started:
 * [Download the latest release](https://github.com/tailwindtoolbox/Landing-Page/archive/master.zip)
 * Clone the repo: `git clone https://github.com/tailwindtoolbox/Landing-Page.git`
@@ -26,6 +27,7 @@ Take a look at our [setup guide](https://www.tailwindtoolbox.com/setup) to start
 * [LedgerSight.com](https://ledgersight.com)
 * [AnonAddy.com](https://anonaddy.com)
 * [MentorCV.com](https://mentorcv.com)
+* [Awdev](https://www.awdev.my.id/thema/pages/dashboard.html)
 * [MakerMetrics.co](https://makermetrics.co)
 * [Nodewood.com](https://nodewood.com)
 * [X-Wing AI](https://xwing.app)
@@ -42,10 +44,13 @@ Have a bug or an issue with this template? [Open a new issue](https://github.com
 * https://twitter.com/tailwindtoolbox
 * https://twitter.com/amritnagi
 * https://github.com/tailwindtoolbox
+* https://twitter.com/Awfanspage
 
 Tailwind Toolbox is based on the [Tailwind CSS](https://www.tailwindcss.com/) framework created by [Adam Wathan](https://twitter.com/adamwathan), [Jonathan Reinink](https://twitter.com/reinink), [David Hemphill](https://twitter.com/davidhemphill) and [Steve Schoger](https://twitter.com/steveschoger)
 
-
+- Distributed [Awdev](https://www.awdev.my.id/thema/)
+- Thema Dashboard [Get Started](https://www.awdev.my.id/thema/pages/dashboard.html)
+- My Profile [View](https://wahyu9kdl.github.io)
 ## Image Attribution
 
 [Hero vector created by freepik.com](https://www.freepik.com/free-vector/isometric-education-illustration_3940819.htm#page=1&query=isometric%20plane&position=1)

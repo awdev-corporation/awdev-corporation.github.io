@@ -1,5 +1,5 @@
 <!--
-	"Poryofolio"
+	"Templates Poryofolio Landing Page - Awdev Corporation"
 	Original utility by:
 	https://wahyu9kdl.github.io
 	https://www.alhikmah.my.id / https://admin.alhikmah.my.id
@@ -494,29 +494,25 @@
     </amp-ad>
     </center>
     <!--And Sponsored -->
-<div id="paypal-button-container-P-4WF80797503132036MIXUZVI"></div>
-<script src="https://www.paypal.com/sdk/js?client-id=AeOdKtJbDLbt0CW5jVHQFk0UNnTxhqDnlsoPvdzzeEJQ8MF2YU6KjYxRSZGC_ft57oxQt-rDKn0_H4Fn&vault=true&intent=subscription" data-sdk-integration-source="button-factory"></script>
-<script>
-  paypal.Buttons({
-      style: {
-          shape: 'rect',
-          color: 'gold',
-          layout: 'vertical',
-          label: 'subscribe'
-      },
-      createSubscription: function(data, actions) {
-        return actions.subscription.create({
-          /* Creates the subscription */
-          plan_id: 'P-4WF80797503132036MIXUZVI'
-        });
-      },
-      onApprove: function(data, actions) {
-        alert(data.subscriptionID); // You can add optional success message for the subscriber here
-      }
-  }).render('#paypal-button-container-P-4WF80797503132036MIXUZVI'); // Renders the PayPal button
-</script>
+    <!--PayPal Langganan-->
+<center>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="K3GV4CAZRURQA">
+<table>
+<tr><td><input type="hidden" name="on0" value="LAYANAN PELANGGAN">LAYANAN PELANGGAN</td></tr><tr><td><select name="os0">
+	<option value="LANGGANAN 1 BULAN">LANGGANAN 1 BULAN : $5,00 USD - bulanan</option>
+	<option value="LAGGANAN 3 BULAN">LAGGANAN 3 BULAN : $10,00 USD - bulanan</option>
+	<option value="LAGGANAN 1 TAHUN">LAGGANAN 1 TAHUN : $25,00 USD - bulanan</option>
+</select> </td></tr>
+</table>
+<input type="hidden" name="currency_code" value="USD">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_subscribeCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/id_ID/i/scr/pixel.gif" width="1" height="1">
+</form>
+</center>
 
-
+<!--And PayPal Langganan-->
     <section id="Slider" data-aos="fade-in">
       <div class="Container">
         <div class="section_title">

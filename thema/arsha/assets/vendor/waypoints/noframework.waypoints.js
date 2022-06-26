@@ -10,7 +10,7 @@ https://wahyu9kdl.github.io - https://www.awdev.my.id/thema/arsha/
   var keyCounter = 0
   var allWaypoints = {}
 
-  /* http://imakewebthings.com/waypoints/api/waypoint */
+  /* https://wahyu9kdl.github.io - https://www.awdev.my.id/thema/arsha/ */
   function Waypoint(options) {
     if (!options) {
       throw new Error('No options passed to Waypoint constructor')
@@ -61,7 +61,7 @@ https://wahyu9kdl.github.io - https://www.awdev.my.id/thema/arsha/
   }
 
   /* Public */
-  /* http://imakewebthings.com/waypoints/api/destroy */
+  /* https://wahyu9kdl.github.io - https://www.awdev.my.id/thema/arsha/ */
   Waypoint.prototype.destroy = function() {
     this.context.remove(this)
     this.group.remove(this)
@@ -69,14 +69,14 @@ https://wahyu9kdl.github.io - https://www.awdev.my.id/thema/arsha/
   }
 
   /* Public */
-  /* http://imakewebthings.com/waypoints/api/disable */
+  /* https://wahyu9kdl.github.io - https://www.awdev.my.id/thema/arsha/ */
   Waypoint.prototype.disable = function() {
     this.enabled = false
     return this
   }
 
   /* Public */
-  /* http://imakewebthings.com/waypoints/api/enable */
+  /* https://wahyu9kdl.github.io - https://www.awdev.my.id/thema/arsha/ */
   Waypoint.prototype.enable = function() {
     this.context.refresh()
     this.enabled = true
@@ -84,13 +84,13 @@ https://wahyu9kdl.github.io - https://www.awdev.my.id/thema/arsha/
   }
 
   /* Public */
-  /* http://imakewebthings.com/waypoints/api/next */
+  /* https://wahyu9kdl.github.io - https://www.awdev.my.id/thema/arsha/ */
   Waypoint.prototype.next = function() {
     return this.group.next(this)
   }
 
   /* Public */
-  /* http://imakewebthings.com/waypoints/api/previous */
+  /* https://wahyu9kdl.github.io - https://www.awdev.my.id/thema/arsha/ */
   Waypoint.prototype.previous = function() {
     return this.group.previous(this)
   }
@@ -107,19 +107,19 @@ https://wahyu9kdl.github.io - https://www.awdev.my.id/thema/arsha/
   }
 
   /* Public */
-  /* http://imakewebthings.com/waypoints/api/destroy-all */
+  /* https://wahyu9kdl.github.io - https://www.awdev.my.id/thema/arsha/ */
   Waypoint.destroyAll = function() {
     Waypoint.invokeAll('destroy')
   }
 
   /* Public */
-  /* http://imakewebthings.com/waypoints/api/disable-all */
+  /* https://wahyu9kdl.github.io - https://www.awdev.my.id/thema/arsha/ */
   Waypoint.disableAll = function() {
     Waypoint.invokeAll('disable')
   }
 
   /* Public */
-  /* http://imakewebthings.com/waypoints/api/enable-all */
+  /* https://wahyu9kdl.github.io - https://www.awdev.my.id/thema/arsha/ */
   Waypoint.enableAll = function() {
     Waypoint.Context.refreshAll()
     for (var waypointKey in allWaypoints) {
@@ -129,19 +129,19 @@ https://wahyu9kdl.github.io - https://www.awdev.my.id/thema/arsha/
   }
 
   /* Public */
-  /* http://imakewebthings.com/waypoints/api/refresh-all */
+  /* https://wahyu9kdl.github.io - https://www.awdev.my.id/thema/arsha/ */
   Waypoint.refreshAll = function() {
     Waypoint.Context.refreshAll()
   }
 
   /* Public */
-  /* http://imakewebthings.com/waypoints/api/viewport-height */
+  /* https://wahyu9kdl.github.io - https://www.awdev.my.id/thema/arsha/ */
   Waypoint.viewportHeight = function() {
     return window.innerHeight || document.documentElement.clientHeight
   }
 
   /* Public */
-  /* http://imakewebthings.com/waypoints/api/viewport-width */
+  /* https://wahyu9kdl.github.io - https://www.awdev.my.id/thema/arsha/ */
   Waypoint.viewportWidth = function() {
     return document.documentElement.clientWidth
   }
@@ -180,7 +180,7 @@ https://wahyu9kdl.github.io - https://www.awdev.my.id/thema/arsha/
   var Waypoint = window.Waypoint
   var oldWindowLoad = window.onload
 
-  /* http://imakewebthings.com/waypoints/api/context */
+  /* https://wahyu9kdl.github.io - https://www.awdev.my.id/thema/arsha/ */
   function Context(element) {
     this.element = element
     this.Adapter = Waypoint.Adapter
@@ -355,7 +355,7 @@ https://wahyu9kdl.github.io - https://www.awdev.my.id/thema/arsha/
   }
 
   /* Public */
-  /* http://imakewebthings.com/waypoints/api/context-refresh */
+  /* https://wahyu9kdl.github.io - https://www.awdev.my.id/thema/arsha/ */
   Context.prototype.refresh = function() {
     /*eslint-disable eqeqeq */
     var isWindow = this.element == this.element.window
@@ -455,7 +455,7 @@ https://wahyu9kdl.github.io - https://www.awdev.my.id/thema/arsha/
   }
 
   /* Public */
-  /* http://imakewebthings.com/waypoints/api/context-find-by-element */
+  /* https://wahyu9kdl.github.io - https://www.awdev.my.id/thema/arsha/ */
   Context.findByElement = function(element) {
     return contexts[element.waypointContextKey]
   }
@@ -494,7 +494,7 @@ https://wahyu9kdl.github.io - https://www.awdev.my.id/thema/arsha/
   }
   var Waypoint = window.Waypoint
 
-  /* http://imakewebthings.com/waypoints/api/group */
+  /* https://wahyu9kdl.github.io - https://www.awdev.my.id/thema/arsha/ */
   function Group(options) {
     this.name = options.name
     this.axis = options.axis
@@ -564,13 +564,13 @@ https://wahyu9kdl.github.io - https://www.awdev.my.id/thema/arsha/
   }
 
   /* Public */
-  /* http://imakewebthings.com/waypoints/api/first */
+  /* https://wahyu9kdl.github.io - https://www.awdev.my.id/thema/arsha/ */
   Group.prototype.first = function() {
     return this.waypoints[0]
   }
 
   /* Public */
-  /* http://imakewebthings.com/waypoints/api/last */
+  /* https://wahyu9kdl.github.io - https://www.awdev.my.id/thema/arsha/ */
   Group.prototype.last = function() {
     return this.waypoints[this.waypoints.length - 1]
   }

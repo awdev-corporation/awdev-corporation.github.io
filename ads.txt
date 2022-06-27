@@ -1,0 +1,2 @@
+# ads.txt file for awdev.my.id:
+google.com, pub-5295583488737876, DIRECT, f08c47fec0942fa0

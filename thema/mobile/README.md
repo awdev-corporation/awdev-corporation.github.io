@@ -10,4 +10,4 @@ Templates Web Mobile AWDEV CORPORATION
 
   Page
 
-  ![preview img](/preview.png)
+  ![preview img](preview.png)

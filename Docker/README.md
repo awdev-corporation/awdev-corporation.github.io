@@ -4,9 +4,7 @@ Docker Hub: [Pre-Build Image](https://hub.docker.com/search?q=)
 Redirect all Requests to a given Url
 
 [GET STARTED](https://www.awdev.my.id)
-
 [View Code Projects](https://www.awdev.my.id/home.html)
-
 [💝 Support](https://github.com/sponsors/wahyu9kdl)
 
 ***The Docker Image use Port:*** 80

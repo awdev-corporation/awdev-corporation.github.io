@@ -1,102 +1,95 @@
-<br/>
+<h3 align="center">DEVFROK CORPORATION</h3>
+
 <p align="center">
-  
-![favicon.png](https://awdev-corporation.github.io/awdev/favicon.png)</p>
-
-</a>
-
-  <h3 align="center">AWDEV CORPORATION</h3>
-
-  <p align="center">
-    AWDEV FREE OPPEN SOURCE GENERAL TO PROJECTS DEVOLOPER , DESIGNER , AND PROGRAMER  <br/>
-    Note This Project Is Still @AWDEV
-    <br/>
-    <br/>
-    <a href="https://www.awdev.my.id"><strong>View Demo »</strong></a>
-    <br/>
-    <br/>
-    <a href="https://www.awdev.my.id/GitHub-Finder/index.html">Github Finder</a>
-    .
-    <a href="https://www.awdev.my.id/home.html ">Page Projects</a>
-    .
-    <a href="https://www.awdev.my.id/android/vc/index.html">Visual Code</a>
-    .
-    <a href="https://www.awdev.my.id/youtube/downloader.html">Youtube Downloader</a>
-    .
-    <a href="https://www.awdev.my.id/thema">Templates</a>    
-  </p>
+DEVFROK FREE OPPEN SOURCE GENERAL TO PROJECTS DEVOLOPER , DESIGNER , AND PROGRAMER  <br/>
+Note This Project Is Still @DEVFROK
+<br/>
+<br/>
+<a href="https://devfrok.github.io "><strong>View Demo »</strong></a>
+<br/>
+<br/>
+<a href="https://devfrok.github.io/GitHub-Finder/index.html">Github Finder</a>
+.
+<a href="https://devfrok.github.io/home.html ">Page Projects</a>
+.
+<a href="https://devfrok.github.io/android/vc/index.html">Visual Code</a>
+.
+<a href="https://devfrok.github.io/youtube/downloader.html">Youtube Downloader</a>
+.
+<a href="https://devfrok.github.io/thema">Templates</a>    
+</p>
 </p>
 
 
 
 ## Table Of Contents
 
-- [HOME PAGE](https://www.awdev.my.id)
+- [HOME PAGE](https://devfrok.github.io)
 - [The Project](https://www.awdev.my.id/home.html)
-- [Github Finder](https://www.awdev.my.id/GitHub-Finder/index.html)
-- [Android](https://www.awdev.my.id/android)
-  - [AUTO](https://www.awdev.my.id/android/auto)
-  - [Converter](https://www.awdev.my.id/android/auto/convert.html)
-  - [Rools](https://www.awdev.my.id/android/auto/rools.html)
-  - [Kode Post](https://www.awdev.my.id/android/kodepost)
-  - [Screenshot](https://www.awdev.my.id/android/screen/index.html)
-  - [Visual Code](https://www.awdev.my.id/android/vc/index.html)
-  - [Character](https://www.awdev.my.id/android/character.html)
-  - [Android Asset](https://www.awdev.my.id/android/index.html)
-- [Thema](https://www.awdev.my.id/thema)
-  - [AMP 1 ⚡](https://www.awdev.my.id/thema/amp/v1.html)
-  - [AMP 2 ⚡](https://www.awdev.my.id/thema/amp/v2.html)
-  - [ARSHA](https://www.awdev.my.id/thema/arsha/index.html)
-  - [ATOM](https://www.awdev.my.id/thema/atom/index.html)
-  - [LANDING](https://www.awdev.my.id/thema/landing/index.html)
-  - [MOBILE](https://www.awdev.my.id/thema/mobile/index.html)
-  - [⚡ AMP MOBILE](https://www.awdev.my.id/thema/mobile/amp.html)
-  - [ADMIN DASHBOARD](https://www.awdev.my.id/thema/pages/dashboard.html)
-  - [SIGN IN](https://www.awdev.my.id/thema/pages/sign-in.html)
-  - [SIGN UP](https://www.awdev.my.id/thema/pages/sign-up.html)
-  - [VIRTUAL REALITY](https://www.awdev.my.id/thema/pages/virtual-reality.html)
-  - [BILLING](https://www.awdev.my.id/thema/pages/billing.html)
-  - [RTL](https://www.awdev.my.id/thema/rtl.html)
-  - [Index](https://www.awdev.my.id/thema/index.html)
-- [FILE](https://www.awdev.my.id/file)
-  - [NFT AWDEV COLLECTION](https://www.awdev.my.id/file/index.html)
-- [AR ( Augmented Reality )](https://www.awdev.my.id/ar/)
-  - [WEB AR VIEWVER](https://www.awdev.my.id/ar/index.html)
-  - [WEB AR NFT](https://www.awdev.my.id/ar/nft.html)
-- [VR ( Virtual Reality )](https://www.awdev.my.id/vr/)
-  - [excample](https://www.awdev.my.id/vr/examples/)
-  - [littleplanet image](https://www.awdev.my.id/vr/examples/littleplanet_image.html)
-  - [panomoment linking](https://www.awdev.my.id/vr/examples/panomoment_linking.html)
-  - [panorama basic](https://www.awdev.my.id/vr/examples/panorama_basic.html)
-  - [panorama camera](https://www.awdev.my.id/vr/examples/panorama_camera.html)
-  - [panorama cube](https://www.awdev.my.id/vr/examples/panorama_cube.html)
-  - [panorama googlestreetview](https://www.awdev.my.id/vr/examples/panorama_googlestreetview.html)
-  - [panorama image](https://www.awdev.my.id/vr/examples/panorama_image.html)
-  - [panorama infospot](https://www.awdev.my.id/vr/examples/panorama_infospot.html)
-  - [panorama infospot focus](https://www.awdev.my.id/vr/examples/panorama_infospot_focus.html)
-  - [panorama interactive](https://www.awdev.my.id/vr/examples/panorama_interactive.html)
-  - [panorama linking](https://www.awdev.my.id/vr/examples/panorama_linking.html)
-  - [panorama loading progress](https://www.awdev.my.id/vr/examples/panorama_loading_progress.html)
-  - [panorama memoryleak test](https://www.awdev.my.id/vr/examples/panorama_memoryleak_test.html)
-  - [panorama reticle](https://www.awdev.my.id/vr/examples/panorama_reticle.html)
-  - [panorama simple gallery](https://www.awdev.my.id/vr/examples/panorama_simple_gallery.html)
-  - [panorama stereo image](https://www.awdev.my.id/vr/examples/panorama_stereo_image.html)
-  - [panorama stereo vidio](https://www.awdev.my.id/vr/examples/panorama_stereo_video.html)
-  - [panorama storytelling](https://www.awdev.my.id/vr/examples/panorama_storytelling.html)
-  - [panorama video](https://www.awdev.my.id/vr/examples/panorama_video.html)
+- [Github Finder](https://devfrok.github.io/GitHub-Finder/index.html)
+- [Android](https://devfrok.github.io/android)
+- [AUTO](https://devfrok.github.io/android/auto)
+- [Converter](https://devfrok.github.io/android/auto/convert.html)
+- [Rools](https://devfrok.github.io/android/auto/rools.html)
+- [Kode Post](https://devfrok.github.io/android/kodepost)
+- [Screenshot](https://devfrok.github.io/android/screen/index.html)
+- [Visual Code](https://devfrok.github.io/android/vc/index.html)
+- [Character](https://devfrok.github.io/android/character.html)
+- [Android Asset](https://devfrok.github.io/android/index.html)
+- [Thema](https://devfrok.github.io/thema)
+- [AMP 1 ⚡](https://devfrok.github.io/thema/amp/v1.html)
+- [AMP 2 ⚡](https://devfrok.github.io/thema/amp/v2.html)
+- [ARSHA](https://devfrok.github.io/thema/arsha/index.html)
+- [ATOM](https://devfrok.github.io/thema/atom/index.html)
+- [LANDING](https://devfrok.github.io/thema/landing/index.html)
+- [MOBILE](https://devfrok.github.io/thema/mobile/index.html)
+- [⚡ AMP MOBILE](https://devfrok.github.io/thema/mobile/amp.html)
+- [ADMIN DASHBOARD](https://devfrok.github.io/thema/pages/dashboard.html)
+- [SIGN IN](https://devfrok.github.io/thema/pages/sign-in.html)
+- [SIGN UP](https://devfrok.github.io/thema/pages/sign-up.html)
+- [VIRTUAL REALITY](https://devfrok.github.io/thema/pages/virtual-reality.html)
+- [BILLING](https://devfrok.github.io/thema/pages/billing.html)
+- [RTL](https://devfrok.github.io/thema/rtl.html)
+- [Index](https://devfrok.github.io/thema/index.html)
+- [FILE](https://devfrok.github.io/file)
+- [NFT AWDEV COLLECTION](https://devfrok.github.io/file/index.html)
+- [AR ( Augmented Reality )](https://devfrok.github.io/ar/)
+- [WEB AR VIEWVER](https://devfrok.github.io/ar/index.html)
+- [WEB AR NFT](https://devfrok.github.io/ar/nft.html)
+- [VR ( Virtual Reality )](https://devfrok.github.io/vr/)
+- [excample](https://www.awdev.my.id/vr/examples/)
+- [littleplanet image](https://www.awdev.my.id/vr/examples/littleplanet_image.html)
+- [panomoment linking](https://www.awdev.my.id/vr/examples/panomoment_linking.html)
+- [panorama basic](https://www.awdev.my.id/vr/examples/panorama_basic.html)
+- [panorama camera](https://www.awdev.my.id/vr/examples/panorama_camera.html)
+- [panorama cube](https://www.awdev.my.id/vr/examples/panorama_cube.html)
+- [panorama googlestreetview](https://www.awdev.my.id/vr/examples/panorama_googlestreetview.html)
+- [panorama image](https://www.awdev.my.id/vr/examples/panorama_image.html)
+- [panorama infospot](https://www.awdev.my.id/vr/examples/panorama_infospot.html)
+- [panorama infospot focus](https://www.awdev.my.id/vr/examples/panorama_infospot_focus.html)
+- [panorama interactive](https://www.awdev.my.id/vr/examples/panorama_interactive.html)
+- [panorama linking](https://www.awdev.my.id/vr/examples/panorama_linking.html)
+- [panorama loading progress](https://www.awdev.my.id/vr/examples/panorama_loading_progress.html)
+- [panorama memoryleak test](https://www.awdev.my.id/vr/examples/panorama_memoryleak_test.html)
+- [panorama reticle](https://www.awdev.my.id/vr/examples/panorama_reticle.html)
+- [panorama simple gallery](https://www.awdev.my.id/vr/examples/panorama_simple_gallery.html)
+- [panorama stereo image](https://www.awdev.my.id/vr/examples/panorama_stereo_image.html)
+- [panorama stereo vidio](https://www.awdev.my.id/vr/examples/panorama_stereo_video.html)
+- [panorama storytelling](https://www.awdev.my.id/vr/examples/panorama_storytelling.html)
+- [panorama video](https://www.awdev.my.id/vr/examples/panorama_video.html)
 - [QR ( Quick Response )](https://qr.awdev.my.id)
-  - [View Web QR](https://qr.awdev.my.id/v3)
+- [View Web QR](https://qr.awdev.my.id/v3)
 - [YOUTUBE](https://youtube.com/channel/UCyp-Fn_0Ek4_aXIFbcWaq0w)
-  - [SUBCRIBE](https://youtube.com/channel/UCyp-Fn_0Ek4_aXIFbcWaq0w)
-  - [YOUTUBE DOWNLOADER](https://www.awdev.my.id/youtube/downloader.html)
-- [FAQ](https://www.awdev.my.id/faq.html)
-- [PRIVASY](https://www.awdev.my.id/privasy.html)
-- [404](https://www.awdev.my.id/404.html)
-- [APP](https://www.awdev.my.id/app/htmleditor-2-1.apk)
-  - [awdev-2-2.aab.zip](app/awdev-2-2.aab.zip)
-  - [awdev-2-2.apk](app/awdev-2-2.apk)
-  - [htmleditor-2-1.aab.zip](app/htmleditor-2-1.aab.zip)
-  - [htmleditor-2-1.apk](app/htmleditor-2-1.apk)
+- [SUBCRIBE](https://youtube.com/channel/UCyp-Fn_0Ek4_aXIFbcWaq0w)
+- [YOUTUBE DOWNLOADER](https://devfrok.github.io/youtube/downloader.html)
+- [FAQ](https://devfrok.github.io/faq.html)
+- [PRIVASY](https://devfrok.github.io/privasy.html)
+- [404](https://devfrok.github.io/404.html)
+- [APP](https://devfrok.github.io/app/htmleditor-2-1.apk)
+- [awdev-2-2.aab.zip](app/awdev-2-2.aab.zip)
+- [awdev-2-2.apk](app/awdev-2-2.apk)
+- [htmleditor-2-1.aab.zip](app/htmleditor-2-1.aab.zip)
+- [htmleditor-2-1.apk](app/htmleditor-2-1.apk)
 - [License](LICENSE)
 - [SECURITY](SECURITY.md)
 - [Authors](#authors)

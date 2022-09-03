@@ -1,0 +1,36 @@
+User-agent: Mediapartners-Google 
+User-agent: * 
+Allow: /
+User-agent: Googlebot-News
+Allow: /
+User-agent: Adsbot-Google
+Allow: /
+User-agent: Googlebot-Image
+Allow: /
+User-agent: Googlebot-Mobile
+Allow: /
+User-agent: Googlebot
+Allow: /
+User-agent: Slurp
+Allow: /
+User-agent: bingbot
+Allow: /
+User-agent: *
+Mediapartners-Google Allow: / blog-admin/admin-ajax.php
+Disallow: /cgi-bin/
+Disallow: /
+User-agent: *
+Disallow: /search
+Disallow: /?m=0
+Disallow: /?m=1
+Sitemap: https://devfrok.github.io/sitemap.xml
+https://devfrok.github.io/sitemap1.xml
+https://devfrok.github.io/index.txt
+Sitemap: https://devfrok.github.io/news-sitemap.xml
+Sitemap: http://devfrok.github.io/feeds/posts/default?orderby=updated
+Sitemap: https://devfrok.github.io/sitemapimages.xml
+Sitemap: https://www.google.com/ping?sitemap=https://devfrok.github.io/sitemap.xml
+Sitemap: https://www.bing.com/ping?sitemap=https://devfrok.github.io/sitemap.xml
+Sitemap: https://www.yahoo.com/ping?sitemap=https://devfrok.github.io/sitemap.xml
+Sitemap: https://www.yandex.com/ping?sitemap=https://devfrok.github.io/sitemap.xml
+Sitemap: https://www.duckdugo.com/ping?sitemap=https://devfrok.github.io/sitemap.xml
